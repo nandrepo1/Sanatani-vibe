@@ -48,7 +48,7 @@ SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/NOBITA_BOTS")
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 
-API_URL = getenv("API_URL", 'https://sachinapi.thequickearn.xyz') #youtube song url
+API_URL = getenv("API_URL", 'https://pytdbotapi.thequickearn.xyz') #youtube song url
 VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
 API_KEY = getenv("API_KEY", 'NxGBNexGenBots1ecb2c') # youtube song api key, generate free key or buy paid plan from panel.thequickearn.xyz
 
